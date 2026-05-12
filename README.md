@@ -127,4 +127,4 @@ Each experiment is currently configured to create 2000 spins for RNG and isolate
 
 This repository is publicly available for research and educational use. If you use this code, data, or findings in your research, please cite the following:
 
-Nelander, S., Bergqvist, A., & Nørgaard, S. (2026). *Prompting luck: Bias and manipulability in LLM-generated "randomness"* (Master's thesis). IT University of Copenhagen. https://github.com/S-Nelander/Thesis2026
+Nelander, S., Bergqvist, A., & Nørgaard, S. (2026). *Prompting luck: Bias and manipulability in LLM-generated "randomness"* (Master's thesis). IT University of Copenhagen. https://github.com/StephanieNelander/Thesis2026
